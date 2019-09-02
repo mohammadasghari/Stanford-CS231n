@@ -30,7 +30,7 @@ In the Jupyter notebooks [StyleTransfer-TensorFlow.ipynb](./StyleTransfer-Tensor
 
 ### Q5: Generative Adversarial Networks (15 points)
 
-In the Jupyter notebooks [GANS-TensorFlow.ipynb](./GANS-TensorFlow.ipynb) we will learn how to generate images that match a training dataset, and use these models to improve classifier performance when training on a large amount of unlabeled data and a small amount of labeled data. 
+In the Jupyter notebooks [Generative_Adversarial_Networks_TF.ipynb](./Generative_Adversarial_Networks_TF.ipynb) we will learn how to generate images that match a training dataset, and use these models to improve classifier performance when training on a large amount of unlabeled data and a small amount of labeled data. 
 
 ### Todos
  - Write what I learnt about setting this assignment (takeaway)
